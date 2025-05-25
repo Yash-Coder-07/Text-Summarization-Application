@@ -2,3 +2,4 @@ streamlit
 spacy
 transformers
 torch
+en-core-web-sm
