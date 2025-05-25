@@ -36,9 +36,7 @@ st.markdown(
 )
 
 # Load NLP models once
-import spacy
 import en_core_web_sm
-
 nlp = en_core_web_sm.load()
 abstractive_summarizer = pipeline("summarization")
 
