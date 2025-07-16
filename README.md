@@ -16,12 +16,6 @@ This is a simple and powerful **AI-based text summarization web app** built with
 
 ---
 
-## 📷 Demo
-
-> *(Add a screenshot or GIF after deployment here)*
-
----
-
 ## 🧠 How It Works
 
 ### 🔹 Extractive Summarization:
