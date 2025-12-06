@@ -1,16 +1,3 @@
-Here is a professional, high-impact **README.md** file tailored for a Data Science/ML portfolio.
-
-This README is designed to impress recruiters by explaining **not just "how to run it" but also "how it works"** (the math/logic behind it).
-
-### Instructions:
-
-1.  Create a file named `README.md` in your project folder.
-2.  Paste the code below.
-3.  **Crucial Step:** Take a screenshot of your app running and save it as `screenshot.png` in your folder (or upload it to your repo), then the image will show up.
-
------
-
-````markdown
 # 📝 Summ.AI | Intelligent Text Summarization
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
@@ -20,15 +7,7 @@ This README is designed to impress recruiters by explaining **not just "how to r
 
 **Summ.AI** is a dual-mode Natural Language Processing (NLP) application designed to condense large text documents into concise, meaningful summaries. It features a user-friendly interface deployed via **Streamlit** and offers two distinct summarization techniques: **Extractive** (Statistical) and **Abstractive** (Deep Learning).
 
----
 
-## 🚀 Live Demo
-[**Click here to view the Live App**](https://your-app-link.streamlit.app/)
-
-## 📸 Screenshots
-![App Interface](screenshot.png)
-
----
 
 ## 🌟 Key Features
 
@@ -100,8 +79,6 @@ python -m spacy download en_core_web_sm
 **5. Run the Application**
 
 ```bash
-streamlit run app.py
-# OR if that doesn't work:
 python -m streamlit run app.py
 ```
 
@@ -125,18 +102,9 @@ Text-Summarization-Application/
 
   * **Role:** Aspiring Data Scientist / Machine Learning Engineer
   * **GitHub:** [Yash-Coder-07](https://www.google.com/search?q=https://github.com/Yash-Coder-07)
-  * **LinkedIn:** [Your LinkedIn Profile Link Here]
 
 -----
 
-*Made with ❤️ using Python & Streamlit*
+*Made with  using Python & Streamlit*
 
-```
-
----
-
-### Pro Tips for your GitHub Repo:
-1.  **Add the Screenshot:** A README without an image is boring. Open your app locally, take a screenshot, name it `screenshot.png`, and upload it to the GitHub folder.
-2.  **Add your LinkedIn:** I put a placeholder at the bottom. Edit the file to add your actual LinkedIn URL.
-3.  **Edit the Live Demo Link:** Once your Streamlit deployment finishes (even if you do it later), paste the link at the top.
 ```
