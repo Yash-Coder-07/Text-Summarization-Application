@@ -98,7 +98,7 @@ with st.sidebar:
         st.info("Abstractive: Generates new sentences to paraphrase the text (Slower but more human-like).")
 
     st.markdown("---")
-    st.write("Made with ❤️ by Yash")
+    st.write("Made with  by Yash")
 
 # --- MAIN LAYOUT ---
 st.markdown('<p class="big-font">✨ Summ.AI <span style="color:gray; font-size:20px">| Intelligent Text Summarization</span></p>', unsafe_allow_html=True)
